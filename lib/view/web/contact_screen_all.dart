@@ -33,7 +33,7 @@ class ContactScreenAll extends StatelessWidget {
           ),
           const CustomTextWidget(
             text:
-                "I am actively seeking new opportunities also am open to collaborating on exciting projects. If you are interested in working together or have any inquiries, please feel free to reach out to me.",
+                " I'm eager to explore new opportunities and collaborate on innovative projects. If you're interested in partnering or have any questions ,don't hesitate to get in touch. Let's create something extraordinary together!  ",
             fontSize: medium,
           ),
           const SizedBox(
